@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @katiejoy97
-- 👀 I’m interested in Python Data science
+
 - 🌱 I’m currently learning Ai and machine learning
-- 💞️ I’m looking to collaborate on ArcGIS and Python projects
+- 💞️ I’m looking to collaborate on Python projects
 
 
 <!---
